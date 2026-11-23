@@ -5,4 +5,4 @@ Bu depo, Github'ı öğrenirken oluşturduğum ilk depo.
 -**En çok merak ettiğim konu: YAPAY ZEKA**
 ##Bu depoda neler var?
 -[Ilk programım](kodlar\merhaba.py)
-![Ekran Görüntüsü](ornek.png)
+![Ekran Görüntüsü](foto.png)
