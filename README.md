@@ -4,5 +4,8 @@ Bu depo, Github'ı öğrenirken oluşturduğum ilk depo.
 -**Bölüm: Bilgisayar mühendisliği**
 -**En çok merak ettiğim konu: YAPAY ZEKA**
 ##Bu depoda neler var?
+## Hobilerim
+- kodlama
+- dizi izlemek
 -[Ilk programım](kodlar\merhaba.py)
 ![Ekran Görüntüsü](foto.png)
